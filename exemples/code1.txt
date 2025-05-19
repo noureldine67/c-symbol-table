@@ -1,0 +1,25 @@
+int main() {
+    /* Constantes entières */
+    const int age = 30;
+    const int nb = 100;
+    const int daysInWeek = 7;
+    const int monthsInYear = 12;
+
+    /* Constantes flottantes sans partie exponentielle */
+    const float pi = 3.14159;
+    const float gravity = 9.81;
+    const float speedOfLight = 299792458.0;
+    
+    /* Constantes flottantes avec partie exponentielle */
+    const float unFlottant = 0.211E-10;
+    const float avogadrosNumber = 6.022e23;
+    const float boltzmannCst = 1.381E-23;
+    const float earthMass = 5.972e24;
+
+    /* Constantes de type caractères */
+    const char unX = 'x';
+    const char unA = 'a';
+    const char retourChariot = '\n';
+
+    return 0;
+}

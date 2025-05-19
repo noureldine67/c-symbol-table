@@ -1,0 +1,108 @@
+Token 100 	[identifier]			index : 1	=>	"int"
+Token 100 	[identifier]			index : 4	=>	"main"
+Token 29 	[non-alphanumeric symbol]	"("
+Token 30 	[non-alphanumeric symbol]	")"
+Token 33 	[non-alphanumeric symbol]	"{"
+Token 100 	[identifier]			index : 1	=>	"int"
+Token 100 	[identifier]			index : 5	=>	"i"
+Token 35 	[non-alphanumeric symbol]	","
+Token 100 	[identifier]			index : 6	=>	"j"
+Token 35 	[non-alphanumeric symbol]	","
+Token 100 	[identifier]			index : 7	=>	"c"
+Token 37 	[non-alphanumeric symbol]	";"
+Token 100 	[identifier]			index : 8	=>	"for"
+Token 29 	[non-alphanumeric symbol]	"("
+Token 100 	[identifier]			index : 6	=>	"j"
+Token 28 	[non-alphanumeric symbol]	"="
+Token 200 	[constant]			1
+Token 37 	[non-alphanumeric symbol]	";"
+Token 100 	[identifier]			index : 6	=>	"j"
+Token 19 	[non-alphanumeric symbol]	"<="
+Token 100 	[identifier]			index : 9	=>	"N"
+Token 37 	[non-alphanumeric symbol]	";"
+Token 100 	[identifier]			index : 6	=>	"j"
+Token 10 	[non-alphanumeric symbol]	"+"
+Token 10 	[non-alphanumeric symbol]	"+"
+Token 30 	[non-alphanumeric symbol]	")"
+Token 100 	[identifier]			index : 8	=>	"for"
+Token 29 	[non-alphanumeric symbol]	"("
+Token 100 	[identifier]			index : 5	=>	"i"
+Token 28 	[non-alphanumeric symbol]	"="
+Token 200 	[constant]			0
+Token 37 	[non-alphanumeric symbol]	";"
+Token 100 	[identifier]			index : 5	=>	"i"
+Token 18 	[non-alphanumeric symbol]	"<"
+Token 100 	[identifier]			index : 9	=>	"N"
+Token 11 	[non-alphanumeric symbol]	"-"
+Token 200 	[constant]			1
+Token 37 	[non-alphanumeric symbol]	";"
+Token 100 	[identifier]			index : 5	=>	"i"
+Token 10 	[non-alphanumeric symbol]	"+"
+Token 10 	[non-alphanumeric symbol]	"+"
+Token 30 	[non-alphanumeric symbol]	")"
+Token 5 	[keyword]			"if"
+Token 29 	[non-alphanumeric symbol]	"("
+Token 100 	[identifier]			index : 10	=>	"T"
+Token 31 	[non-alphanumeric symbol]	"["
+Token 100 	[identifier]			index : 5	=>	"i"
+Token 32 	[non-alphanumeric symbol]	"]"
+Token 20 	[non-alphanumeric symbol]	">"
+Token 100 	[identifier]			index : 10	=>	"T"
+Token 31 	[non-alphanumeric symbol]	"["
+Token 100 	[identifier]			index : 5	=>	"i"
+Token 10 	[non-alphanumeric symbol]	"+"
+Token 200 	[constant]			1
+Token 32 	[non-alphanumeric symbol]	"]"
+Token 30 	[non-alphanumeric symbol]	")"
+Token 33 	[non-alphanumeric symbol]	"{"
+Token 100 	[identifier]			index : 7	=>	"c"
+Token 28 	[non-alphanumeric symbol]	"="
+Token 100 	[identifier]			index : 10	=>	"T"
+Token 31 	[non-alphanumeric symbol]	"["
+Token 100 	[identifier]			index : 5	=>	"i"
+Token 32 	[non-alphanumeric symbol]	"]"
+Token 37 	[non-alphanumeric symbol]	";"
+Token 100 	[identifier]			index : 10	=>	"T"
+Token 31 	[non-alphanumeric symbol]	"["
+Token 100 	[identifier]			index : 5	=>	"i"
+Token 32 	[non-alphanumeric symbol]	"]"
+Token 28 	[non-alphanumeric symbol]	"="
+Token 100 	[identifier]			index : 10	=>	"T"
+Token 31 	[non-alphanumeric symbol]	"["
+Token 100 	[identifier]			index : 5	=>	"i"
+Token 10 	[non-alphanumeric symbol]	"+"
+Token 200 	[constant]			1
+Token 32 	[non-alphanumeric symbol]	"]"
+Token 37 	[non-alphanumeric symbol]	";"
+Token 100 	[identifier]			index : 10	=>	"T"
+Token 31 	[non-alphanumeric symbol]	"["
+Token 100 	[identifier]			index : 5	=>	"i"
+Token 10 	[non-alphanumeric symbol]	"+"
+Token 200 	[constant]			1
+Token 32 	[non-alphanumeric symbol]	"]"
+Token 28 	[non-alphanumeric symbol]	"="
+Token 100 	[identifier]			index : 7	=>	"c"
+Token 37 	[non-alphanumeric symbol]	";"
+Token 34 	[non-alphanumeric symbol]	"}"
+Token 100 	[identifier]			index : 11	=>	"return"
+Token 200 	[constant]			0
+Token 37 	[non-alphanumeric symbol]	";"
+Token 34 	[non-alphanumeric symbol]	"}"
+
+		 SYMBOL TABLE (12 symbol(s))	
+	-------------------------------------------------
+	|     index	|	symbol			|
+	-------------------------------------------------
+	|	0	|	char			|
+	|	1	|	int			|
+	|	2	|	float			|
+	|	3	|	void			|
+	|	4	|	main			|
+	|	5	|	i			|
+	|	6	|	j			|
+	|	7	|	c			|
+	|	8	|	for			|
+	|	9	|	N			|
+	|	10	|	T			|
+	|	11	|	return			|
+	-------------------------------------------------

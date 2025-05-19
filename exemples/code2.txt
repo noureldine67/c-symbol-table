@@ -1,0 +1,15 @@
+int main(){
+
+    int i,j,c;
+
+    for(j=1;j<=N;j++)
+        for(i=0;i<N-1;i++)
+        if ( T[i] > T[i+1] ) 
+        {
+            c = T[i];
+            T[i] = T[i+1];
+            T[i+1] = c;
+        }
+        
+    return 0;
+}

@@ -1,0 +1,119 @@
+Token 100 	[identifier]			index : 1	=>	"int"
+Token 100 	[identifier]			index : 4	=>	"main"
+Token 29 	[non-alphanumeric symbol]	"("
+Token 30 	[non-alphanumeric symbol]	")"
+Token 33 	[non-alphanumeric symbol]	"{"
+Token 2 	[keyword]			"const"
+Token 100 	[identifier]			index : 1	=>	"int"
+Token 100 	[identifier]			index : 5	=>	"age"
+Token 28 	[non-alphanumeric symbol]	"="
+Token 200 	[constant]			30
+Token 37 	[non-alphanumeric symbol]	";"
+Token 2 	[keyword]			"const"
+Token 100 	[identifier]			index : 1	=>	"int"
+Token 100 	[identifier]			index : 6	=>	"nb"
+Token 28 	[non-alphanumeric symbol]	"="
+Token 200 	[constant]			100
+Token 37 	[non-alphanumeric symbol]	";"
+Token 2 	[keyword]			"const"
+Token 100 	[identifier]			index : 1	=>	"int"
+Token 100 	[identifier]			index : 7	=>	"daysInWeek"
+Token 28 	[non-alphanumeric symbol]	"="
+Token 200 	[constant]			7
+Token 37 	[non-alphanumeric symbol]	";"
+Token 2 	[keyword]			"const"
+Token 100 	[identifier]			index : 1	=>	"int"
+Token 100 	[identifier]			index : 8	=>	"monthsInYear"
+Token 28 	[non-alphanumeric symbol]	"="
+Token 200 	[constant]			12
+Token 37 	[non-alphanumeric symbol]	";"
+Token 2 	[keyword]			"const"
+Token 100 	[identifier]			index : 2	=>	"float"
+Token 100 	[identifier]			index : 9	=>	"pi"
+Token 28 	[non-alphanumeric symbol]	"="
+Token 201 	[constant]			3.14159
+Token 37 	[non-alphanumeric symbol]	";"
+Token 2 	[keyword]			"const"
+Token 100 	[identifier]			index : 2	=>	"float"
+Token 100 	[identifier]			index : 10	=>	"gravity"
+Token 28 	[non-alphanumeric symbol]	"="
+Token 201 	[constant]			9.81
+Token 37 	[non-alphanumeric symbol]	";"
+Token 2 	[keyword]			"const"
+Token 100 	[identifier]			index : 2	=>	"float"
+Token 100 	[identifier]			index : 11	=>	"speedOfLight"
+Token 28 	[non-alphanumeric symbol]	"="
+Token 201 	[constant]			299792458.0
+Token 37 	[non-alphanumeric symbol]	";"
+Token 2 	[keyword]			"const"
+Token 100 	[identifier]			index : 2	=>	"float"
+Token 100 	[identifier]			index : 12	=>	"unFlottant"
+Token 28 	[non-alphanumeric symbol]	"="
+Token 201 	[constant]			0.211E-10
+Token 37 	[non-alphanumeric symbol]	";"
+Token 2 	[keyword]			"const"
+Token 100 	[identifier]			index : 2	=>	"float"
+Token 100 	[identifier]			index : 13	=>	"avogadrosNumber"
+Token 28 	[non-alphanumeric symbol]	"="
+Token 201 	[constant]			6.022e23
+Token 37 	[non-alphanumeric symbol]	";"
+Token 2 	[keyword]			"const"
+Token 100 	[identifier]			index : 2	=>	"float"
+Token 100 	[identifier]			index : 14	=>	"boltzmannCst"
+Token 28 	[non-alphanumeric symbol]	"="
+Token 201 	[constant]			1.381E-23
+Token 37 	[non-alphanumeric symbol]	";"
+Token 2 	[keyword]			"const"
+Token 100 	[identifier]			index : 2	=>	"float"
+Token 100 	[identifier]			index : 15	=>	"earthMass"
+Token 28 	[non-alphanumeric symbol]	"="
+Token 201 	[constant]			5.972e24
+Token 37 	[non-alphanumeric symbol]	";"
+Token 2 	[keyword]			"const"
+Token 100 	[identifier]			index : 0	=>	"char"
+Token 100 	[identifier]			index : 16	=>	"unX"
+Token 28 	[non-alphanumeric symbol]	"="
+Token 202 	[constant]			'x'
+Token 37 	[non-alphanumeric symbol]	";"
+Token 2 	[keyword]			"const"
+Token 100 	[identifier]			index : 0	=>	"char"
+Token 100 	[identifier]			index : 17	=>	"unA"
+Token 28 	[non-alphanumeric symbol]	"="
+Token 202 	[constant]			'a'
+Token 37 	[non-alphanumeric symbol]	";"
+Token 2 	[keyword]			"const"
+Token 100 	[identifier]			index : 0	=>	"char"
+Token 100 	[identifier]			index : 18	=>	"retourChariot"
+Token 28 	[non-alphanumeric symbol]	"="
+Token 202 	[constant]			'\n'
+Token 37 	[non-alphanumeric symbol]	";"
+Token 100 	[identifier]			index : 19	=>	"return"
+Token 200 	[constant]			0
+Token 37 	[non-alphanumeric symbol]	";"
+Token 34 	[non-alphanumeric symbol]	"}"
+
+		 SYMBOL TABLE (20 symbol(s))	
+	-------------------------------------------------
+	|     index	|	symbol			|
+	-------------------------------------------------
+	|	0	|	char			|
+	|	1	|	int			|
+	|	2	|	float			|
+	|	3	|	void			|
+	|	4	|	main			|
+	|	5	|	age			|
+	|	6	|	nb			|
+	|	7	|	daysInWeek		|
+	|	8	|	monthsInYear		|
+	|	9	|	pi			|
+	|	10	|	gravity			|
+	|	11	|	speedOfLight		|
+	|	12	|	unFlottant		|
+	|	13	|	avogadrosNumber		|
+	|	14	|	boltzmannCst		|
+	|	15	|	earthMass		|
+	|	16	|	unX			|
+	|	17	|	unA			|
+	|	18	|	retourChariot		|
+	|	19	|	return			|
+	-------------------------------------------------
